@@ -1,0 +1,2 @@
+![image](https://github.com/user-attachments/assets/7fcaeed7-340c-41ff-a079-4004c685dc24)
+This image displays a Tic Tac Toe game board with a 3x3 grid. The game shows that Player O's turn is next, and the board is filled with X's and O's, with a "Tie" result displayed below the grid. The "Reset" button allows the game to restart. The game interface is simple with a dark theme and colorful markings for X's and O's.
